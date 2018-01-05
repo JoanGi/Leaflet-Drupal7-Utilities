@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the leaflet utility feature.
+ */
+
+include_once 'leaflet_utility.features.inc';
