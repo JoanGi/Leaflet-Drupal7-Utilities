@@ -1,4 +1,4 @@
-# leaflet-drupal
+# Drupal 7 - Leaflet guide
 
 Useful repositories to fast use leaflet with Drupal
 
